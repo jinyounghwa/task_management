@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./taskflow/taskflow.jpg" alt="TaskFlow" width="800" height="500">
+<img src="./taskflow/taskflow.jpg" alt="TaskFlow" width="900" height="600">
 </div>
 
 # TaskFlow - 태스크 관리 시스템
