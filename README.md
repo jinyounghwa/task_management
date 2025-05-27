@@ -2,7 +2,7 @@
 <img src="./taskflow/taskflow.jpg" alt="TaskFlow" width="1174" height="547">
 </div>
 
-# Task_Management - 태스크 관리 시스템
+# TaskFlow - 태스크 관리 시스템
 
 ## 프로젝트 개요
 
@@ -47,7 +47,6 @@ TaskFlow는 프로젝트와 태스크를 효율적으로 관리할 수 있는 �
 
 ### 대시보드
 - 프로젝트 및 태스크 현황 요약
-- 데이터 시각화 (차트 및 그래프)
 
 ## 데이터 모델
 
@@ -159,7 +158,7 @@ yarn start
 ### 데이터 시각화
 - Recharts를 활용한 차트 구현
 - 프로젝트 진행률 시각화
-- 태스크 상태 분포 시각화
+
 
 ## 프로젝트 구조
 
