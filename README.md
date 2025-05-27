@@ -2,7 +2,7 @@
 <img src="./taskflow/taskflow.jpg" alt="TaskFlow" width="1174" height="547">
 </div>
 
-# TaskFlow - 태스크 관리 시스템
+# Task_Management - 태스크 관리 시스템
 
 ## 프로젝트 개요
 
@@ -16,11 +16,10 @@ TaskFlow는 프로젝트와 태스크를 효율적으로 관리할 수 있는 �
 - Tailwind CSS
 - Zustand (상태 관리)
 - React Hook Form (폼 관리)
-- Framer Motion (애니메이션)
 - React Beautiful DnD (드래그 앤 드롭)
 - Recharts (데이터 시각화)
 
-### 백엔드
+### 백엔드 (서버연결은 구현하지 않음)
 - Next.js API Routes
 - Prisma ORM
 - SQLite 데이터베이스
